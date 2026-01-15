@@ -1,0 +1,2 @@
+# neuroBand
+curso especialización 
